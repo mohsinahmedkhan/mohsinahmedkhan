@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MohsinKhan667
-- 👀 I’m interested in learning
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
