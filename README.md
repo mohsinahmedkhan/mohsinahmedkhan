@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> mohsinahmedkhan@gmail.com
 <p align="left">
 </p>
 
