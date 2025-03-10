@@ -16,12 +16,13 @@
 ---
 
 ### 🚀 About Me
-I'm a passionate **MERN Stack Developer** from Pakistan with a strong focus on building scalable and efficient web applications. I love turning ideas into reality using modern technologies and always strive for clean, maintainable code.
+I'm a passionate **MERN Stack Developer** from Pakistan, dedicated to building scalable and efficient web applications. With a strong foundation in JavaScript and modern frameworks, I focus on clean code, responsive design, and creating robust applications.
 
-- 🔭 **Currently Working On:** Advanced MERN stack projects with real-time functionalities.
+- 🔭 **Currently Working On:** Advanced MERN stack projects incorporating real-time features.
 - 🌱 **Learning:** Progressive Web Apps (PWA), GraphQL, and cloud deployment strategies.
-- 💡 **Interests:** Modern web development, UI/UX design, and continuous integration/deployment.
-- ⚡ **Fun Fact:** I’m a quick learner and always eager to explore new challenges.
+- 💬 **Ask Me About:** JavaScript, React, Node.js, Express, MongoDB, and modern web development.
+- 📫 **How to Reach Me:** [mohsinahmedkhan667@gmail.com](mailto:mohsinahmedkhan667@gmail.com)
+- ⚡ **Fun Fact:** I'm a quick learner who loves exploring new technologies and solving challenging problems.
 
 ---
 
@@ -30,7 +31,7 @@ I'm a passionate **MERN Stack Developer** from Pakistan with a strong focus on b
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
@@ -51,20 +52,22 @@ I'm a passionate **MERN Stack Developer** from Pakistan with a strong focus on b
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohsinKhan667&show_icons=true&theme=default" alt="Mohsin's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinKhan667&theme=default" alt="Mohsin's GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohsinKhan667&show_icons=true&theme=radical" alt="Mohsin's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinKhan667&theme=radical" alt="Mohsin's GitHub Streak"/>
 </p>
 
 ---
 
 ### 📂 Featured Projects
-- **Project 1:** [Project Name](#) - A MERN stack project that solves [a specific problem] with modern UI and real-time features.
-- **Project 2:** [Project Name](#) - A dynamic web application built with MongoDB, Express, React, and Node.
-- **Project 3:** [Project Name](#) - An innovative project integrating APIs and microservices within the MERN ecosystem.
+- **Project One:** [Project Link](#) - A MERN stack project showcasing real-time data processing and interactive UI.
+- **Project Two:** [Project Link](#) - A dynamic web application built using MongoDB, Express, React, and Node.
+- **Project Three:** [Project Link](#) - An innovative project integrating RESTful APIs and microservices architecture.
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Contact Me
+Feel free to reach out for collaboration or just a friendly chat!
 - **Email:** [mohsinahmedkhan667@gmail.com](mailto:mohsinahmedkhan667@gmail.com)
 - **LinkedIn:** [Mohsin Ahmed Khan](https://www.linkedin.com/in/mohsinahmedkhan/)
 - **Twitter:** [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
+
