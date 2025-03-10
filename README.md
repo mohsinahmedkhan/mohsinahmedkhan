@@ -1,56 +1,46 @@
 <h1 align="center">Hi 👋, I'm Mohsin Ahmed Khan</h1>
-<h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
+<h3 align="center">MERN Stack Developer | Full Stack Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohsinahmedkhan/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://twitter.com/yourTwitterHandle">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter">
-  </a>
   <a href="mailto:mohsinahmedkhan667@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://twitter.com/yourTwitterHandle">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter">
   </a>
 </p>
 
 ---
 
-### 🌱 About Me
-- **Currently Learning:** Web & App Development, Advanced JavaScript, and UI/UX Design.
-- **Interests:** Building interactive web applications, exploring new frontend technologies, and optimizing user experiences.
-- **Fun Fact:** I consider myself a quick learner and always eager to embrace new challenges.
+### 🚀 About Me
+I'm a passionate **MERN Stack Developer** from Pakistan with a strong focus on building scalable and efficient web applications. I love turning ideas into reality using modern technologies and always strive for clean, maintainable code.
+
+- 🔭 **Currently Working On:** Advanced MERN stack projects with real-time functionalities.
+- 🌱 **Learning:** Progressive Web Apps (PWA), GraphQL, and cloud deployment strategies.
+- 💡 **Interests:** Modern web development, UI/UX design, and continuous integration/deployment.
+- ⚡ **Fun Fact:** I’m a quick learner and always eager to explore new challenges.
 
 ---
 
-### 💬 Ask Me About
-- HTML, CSS, JavaScript
-- Bootstrap & Responsive Web Design
-- React.js and modern frontend development
-
----
-
-### 🔭 Currently Working On
-- JavaScript projects and dynamic web applications.
-- Enhancing my skills with React and exploring new frameworks.
-
----
-
-### 🛠️ Skills & Tools
+### 🔧 Skills & Technologies
 <p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
@@ -59,7 +49,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohsinKhan667&show_icons=true&theme=default" alt="Mohsin's GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohsinKhan667&theme=default" alt="Mohsin's GitHub Streak"/>
@@ -67,12 +57,14 @@
 
 ---
 
+### 📂 Featured Projects
+- **Project 1:** [Project Name](#) - A MERN stack project that solves [a specific problem] with modern UI and real-time features.
+- **Project 2:** [Project Name](#) - A dynamic web application built with MongoDB, Express, React, and Node.
+- **Project 3:** [Project Name](#) - An innovative project integrating APIs and microservices within the MERN ecosystem.
+
+---
+
 ### 📫 How to Reach Me
 - **Email:** [mohsinahmedkhan667@gmail.com](mailto:mohsinahmedkhan667@gmail.com)
 - **LinkedIn:** [Mohsin Ahmed Khan](https://www.linkedin.com/in/mohsinahmedkhan/)
 - **Twitter:** [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
-
-<!---
-MohsinKhan667/MohsinKhan667 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
