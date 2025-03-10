@@ -13,27 +13,21 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
   </a>
 </p>
-
 ---
-
 ### 🚀 About Me
 I'm a dedicated **Frontend & Backend Developer** from Pakistan with a passion for building modern, scalable web applications. I specialize in the MERN stack and enjoy crafting dynamic user experiences with clean, efficient code.
 
 - 🌱 I’m currently learning Web and App Development with a focus on MERN Stack
 - 💬 Ask me about HTML, CSS, JavaScript, Bootstrap, React, Node.js, Express, MongoDB, Next.js, Firebase, Tailwind CSS
-- 📫 How to reach me: nomanpervaiz035@gmail.com
+- 📫 How to reach me: mohsinahmedkhan667@gmail.com
 - 🔭 I’m currently working on MERN Stack Projects
 - ⚡ Fun fact: I think I'm a quick learner
-
 ---
-
 ### 📫 Get in Touch
 Feel free to connect for collaborations or inquiries:
 - **Email:** [mohsinahmedkhan667@gmail.com](mailto:mohsinahmedkhan667@gmail.com)
 - **LinkedIn:** [Mohsin Ahmed Khan](https://linkedin.com/in/mohsinahmedkhan1)
-
 ---
-
 ### 💻 Languages and Tools
 <p align="left">
   <!-- HTML5 -->
@@ -58,7 +52,7 @@ Feel free to connect for collaborations or inquiries:
   </a>
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
   <!-- Next.js -->
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
