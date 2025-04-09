@@ -58,7 +58,7 @@ Feel free to connect for collaborations or inquiries:
   </a>
   <!-- Tailwind CSS -->
   <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.d52e9897.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
   <!-- Next.js -->
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
